@@ -1,4 +1,6 @@
-# Instruções de uso
+# Controlador de Filmes
+
+###Esta pequena aplicação tem por objetivo criar apresentar de forma amigavel informações armazenadas em um banco MYSQL.
 
 - Instalar componentes do backend e frontend (npm i)
 - Backend na porta 5000
